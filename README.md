@@ -1,4 +1,4 @@
-# AdultIncomePrediction
+# Adult Income Prediction
 Society includes a wide range of individuals whose life tasks and priorities differ, but they have one thing in common, which is the interest in providing an adequate source of income to meet their needs. Many people may face difficulty in managing their money and their source of income may exceed a certain value, but with poor management, they do not know. Several methods based on machine learning have been proposed to deal with the problem of the process of predicting the value of income for an adult.
 In this project, we present an empirical comparison of the most widely used machine learning approaches in revenue forecasting. Our experience involves using a logistic regression model.
 
